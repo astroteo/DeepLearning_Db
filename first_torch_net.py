@@ -44,4 +44,6 @@ class Net(nn.Module):
 
 if __name__ == '__main__':
     net = Net()
+    # how to train the net ???
+
     
